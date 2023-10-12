@@ -1,0 +1,5 @@
+Model,accuracy
+Multiple Linear Regression,1833.67
+Decision Tree Regression,1878.05
+Random Forest Regression,1837.13
+Polynomial Regression,1830.18
